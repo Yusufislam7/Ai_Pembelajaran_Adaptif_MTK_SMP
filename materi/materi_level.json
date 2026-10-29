@@ -1,0 +1,26 @@
+{
+  "1": {
+    "objek": "Operasi Hitung Bilangan Bulat",
+    "materi": "Bilangan bulat terdiri dari bilangan positif, nol, dan negatif. Dalam operasi penjumlahan, jika tanda sama maka dijumlahkan, jika tanda berbeda maka dicari selisihnya.",
+    "visual_info": "Diagram garis bilangan yang menunjukkan pergerakan ke kanan untuk (+) dan ke kiri untuk (-).",
+    "aktivitas": "Gunakan koin merah (+) dan koin biru (-) untuk mensimulasikan penjumlahan."
+  },
+  "2": {
+    "objek": "Bentuk Aljabar",
+    "materi": "Aljabar menggunakan huruf (variabel) untuk mewakili angka yang belum diketahui. Contoh: 2x + 5. Angka 2 adalah koefisien, x adalah variabel, dan 5 adalah konstanta.",
+    "visual_info": "Kotak peraga (Algebra Tiles) yang memisahkan antara blok variabel x dan blok satuan.",
+    "aktivitas": "Susunlah balok-balok di meja untuk memodelkan persamaan 2x = 6."
+  },
+  "3": {
+    "objek": "Konsep Fungsi Dasar",
+    "materi": "Fungsi adalah aturan yang menghubungkan setiap input (x) ke tepat satu output (f(x)). Ibaratkan fungsi sebagai mesin yang memproses bahan mentah menjadi barang jadi.",
+    "visual_info": "Gambar diagram panah dari Himpunan A ke Himpunan B.",
+    "aktivitas": "Buatlah tabel input-output sederhana untuk melihat pola perubahan nilai."
+  },
+  "4": {
+    "objek": "Fungsi Komposisi (HOTS)",
+    "materi": "Fungsi komposisi (f o g)(x) berarti memasukkan fungsi g(x) ke dalam fungsi f(x). Ini adalah proses berantai untuk menyelesaikan masalah yang lebih kompleks.",
+    "visual_info": "Skema dua mesin produksi yang terhubung secara seri.",
+    "aktivitas": "Analisis bagaimana perubahan harga bahan baku mempengaruhi harga jual akhir menggunakan dua fungsi yang digabungkan."
+  }
+}

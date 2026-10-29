@@ -1,0 +1,113 @@
+{
+  "1": [
+    {
+      "pertanyaan": "Jika x + 3 = 7, maka nilai x adalah ...",
+      "opsi": ["a. 2", "b. 3", "c. 4", "d. 5"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Hasil dari 8 − 5 adalah ...",
+      "opsi": ["a. 1", "b. 2", "c. 3", "d. 4"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika 2 × x = 6, maka x = ...",
+      "opsi": ["a. 2", "b. 3", "c. 4", "d. 6"],
+      "jawaban": "b"
+    },
+    {
+      "pertanyaan": "Nilai dari 10 ÷ 2 adalah ...",
+      "opsi": ["a. 3", "b. 4", "c. 5", "d. 6"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika x − 4 = 5, maka x = ...",
+      "opsi": ["a. 7", "b. 8", "c. 9", "d. 10"],
+      "jawaban": "c"
+    }
+  ],
+
+  "2": [
+    {
+      "pertanyaan": "Jika 3x = 12, maka nilai x adalah ...",
+      "opsi": ["a. 2", "b. 3", "c. 4", "d. 6"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika x/4 = 5, maka nilai x adalah ...",
+      "opsi": ["a. 15", "b. 18", "c. 20", "d. 25"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Bentuk sederhana dari 2(x + 3) adalah ...",
+      "opsi": ["a. x + 6", "b. 2x + 3", "c. 2x + 6", "d. x + 3"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika 5x − 5 = 10, maka x = ...",
+      "opsi": ["a. 2", "b. 3", "c. 4", "d. 5"],
+      "jawaban": "b"
+    },
+    {
+      "pertanyaan": "Hasil dari 4x + 2 jika x = 3 adalah ...",
+      "opsi": ["a. 10", "b. 12", "c. 14", "d. 16"],
+      "jawaban": "c"
+    }
+  ],
+
+  "3": [
+    {
+      "pertanyaan": "Jika f(x) = 2x + 1, maka f(3) = ...",
+      "opsi": ["a. 5", "b. 6", "c. 7", "d. 8"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika f(x) = x², maka f(4) = ...",
+      "opsi": ["a. 8", "b. 12", "c. 14", "d. 16"],
+      "jawaban": "d"
+    },
+    {
+      "pertanyaan": "Jika f(x) = 3x − 2, maka f(5) = ...",
+      "opsi": ["a. 10", "b. 11", "c. 13", "d. 15"],
+      "jawaban": "b"
+    },
+    {
+      "pertanyaan": "Nilai dari f(2) jika f(x) = x² + 1 adalah ...",
+      "opsi": ["a. 3", "b. 4", "c. 5", "d. 6"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika f(x) = 5x, maka f(6) = ...",
+      "opsi": ["a. 25", "b. 30", "c. 35", "d. 40"],
+      "jawaban": "b"
+    }
+  ],
+
+  "4": [
+    {
+      "pertanyaan": "Jika f(x) = 2x + 1 dan g(x) = x − 3, maka (f ∘ g)(4) = ...",
+      "opsi": ["a. 3", "b. 5", "c. 7", "d. 9"],
+      "jawaban": "b"
+    },
+    {
+      "pertanyaan": "Jika f(x) = x² dan g(x) = x + 1, maka (f ∘ g)(2) = ...",
+      "opsi": ["a. 6", "b. 7", "c. 8", "d. 9"],
+      "jawaban": "d"
+    },
+    {
+      "pertanyaan": "Jika f(x) = 3x dan g(x) = 2x − 1, maka (g ∘ f)(2) = ...",
+      "opsi": ["a. 9", "b. 10", "c. 11", "d. 12"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika f(x) = x + 4, maka nilai x jika f(x) = 10 adalah ...",
+      "opsi": ["a. 4", "b. 5", "c. 6", "d. 7"],
+      "jawaban": "c"
+    },
+    {
+      "pertanyaan": "Jika f(x) = 2x − 3, tentukan f(7) ...",
+      "opsi": ["a. 9", "b. 10", "c. 11", "d. 12"],
+      "jawaban": "a"
+    }
+  ]
+}
